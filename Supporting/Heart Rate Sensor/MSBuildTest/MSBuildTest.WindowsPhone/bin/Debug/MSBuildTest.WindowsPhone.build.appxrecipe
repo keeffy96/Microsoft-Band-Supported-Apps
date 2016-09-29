@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>COLMWIN8</Machine>
+    <WindowsUser>Colm</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>85041f05-72c1-479c-800f-4fdb091e1b28</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MSBuildTest.WindowsPhone.exe">
+      <PackagePath>MSBuildTest.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.dll">
+      <PackagePath>Microsoft.Band.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Phone.dll">
+      <PackagePath>Microsoft.Band.Phone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Store.dll">
+      <PackagePath>Microsoft.Band.Store.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MSBuildTest.WindowsPhone.xr.xml">
+      <PackagePath>MSBuildTest.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Phone\Microsoft.Band.Phone.xr.xml">
+      <PackagePath>Microsoft.Band.Phone\Microsoft.Band.Phone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Phone\Sensors\PhoneSensorConsentPage.xbf">
+      <PackagePath>Microsoft.Band.Phone\Sensors\PhoneSensorConsentPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Phone\Tiles\PhoneAddTilePage.xbf">
+      <PackagePath>Microsoft.Band.Phone\Tiles\PhoneAddTilePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Store\Microsoft.Band.Store.xr.xml">
+      <PackagePath>Microsoft.Band.Store\Microsoft.Band.Store.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Store\Sensors\SensorConsentPage.xbf">
+      <PackagePath>Microsoft.Band.Store\Sensors\SensorConsentPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Store\Tiles\AddTilePage.xbf">
+      <PackagePath>Microsoft.Band.Store\Tiles\AddTilePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

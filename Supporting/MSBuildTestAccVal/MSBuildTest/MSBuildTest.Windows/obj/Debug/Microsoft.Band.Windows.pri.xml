@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Microsoft.Band.Windows" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Microsoft.Band.Windows">
+				<NamedResource name="Microsoft.Band.Windows.xr.xml" uri="ms-resource://Microsoft.Band.Windows/Files/Microsoft.Band.Windows/Microsoft.Band.Windows.xr.xml">
+					<Candidate type="Path">
+						<Value>Microsoft.Band.Windows\Microsoft.Band.Windows.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Sensors">
+					<NamedResource name="WindowsSensorConsentPage.xbf" uri="ms-resource://Microsoft.Band.Windows/Files/Microsoft.Band.Windows/Sensors/WindowsSensorConsentPage.xbf">
+						<Candidate type="Path">
+							<Value>Microsoft.Band.Windows\Sensors\WindowsSensorConsentPage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Tiles">
+					<NamedResource name="WindowsAddTilePage.xbf" uri="ms-resource://Microsoft.Band.Windows/Files/Microsoft.Band.Windows/Tiles/WindowsAddTilePage.xbf">
+						<Candidate type="Path">
+							<Value>Microsoft.Band.Windows\Tiles\WindowsAddTilePage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Band.Windows">
+			<ResourceMapSubtree name="Resources">
+				<ResourceMapSubtree name="AddTilePagePrompt">
+					<NamedResource name="Text" uri="ms-resource://Microsoft.Band.Windows/Microsoft.Band.Windows/Resources/AddTilePagePrompt/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Add this Tile to your Microsoft Band?</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="UserConsentPageConsentButton">
+					<NamedResource name="Content" uri="ms-resource://Microsoft.Band.Windows/Microsoft.Band.Windows/Resources/UserConsentPageConsentButton/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Yes</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="UserConsentPageDeclineButton">
+					<NamedResource name="Content" uri="ms-resource://Microsoft.Band.Windows/Microsoft.Band.Windows/Resources/UserConsentPageDeclineButton/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>No</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

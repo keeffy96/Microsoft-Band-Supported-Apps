@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="MSBuildTest.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MSBuildTest"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock x:ConnectionId='1' VerticalAlignment="Bottom"  Margin="0,0,282,568" Height="35" Width="80"                                               FontSize="26.667" Foreground="#FFF0D110" >
+            <TextBlock.HorizontalAlignment>Right</TextBlock.HorizontalAlignment>
+            <Run Foreground="#FFE6DC13" Text="Status"/>
+    		<Run Text=":"/>
+        </TextBlock>
+        <TextBox x:Name="txtStatus" Margin="123,33,26,0" Opacity="0.4" />
+        <Button x:ConnectionId='2' x:Name="btnStartHr" Content="Start HR" HorizontalAlignment="Left" Margin="38,100,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.989,-0.177" Height="101" Width="130"                         />
+        <Button x:Name="btnStopHR" Content="&#xD;&#xA;Stop HR&#xD;&#xA;" HorizontalAlignment="Left" Margin="214,100,0,0" VerticalAlignment="Top" Height="102" Width="128"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="38,233,0,0" TextWrapping="Wrap" Text="HR" VerticalAlignment="Top" FontSize="26.667" Foreground="#FFE6DC13"/>
+        <TextBox x:Name="TxtHr" HorizontalAlignment="Left" Margin="123,226,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="251" Opacity="0.4"/>
+    </Grid>
+</Page>
+

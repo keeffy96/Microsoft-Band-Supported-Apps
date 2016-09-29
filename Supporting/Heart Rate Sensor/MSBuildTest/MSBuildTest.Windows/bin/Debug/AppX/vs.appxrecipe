@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>COLMWIN8</Machine>
+    <WindowsUser>Colm</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ba8b7d8d-0786-4fda-b8e2-c46328176686</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8F7257207BE6D6585F0931E8F4524265DC9E20D68F21BC65A880D7CC086462C4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ba8b7d8d-0786-4fda-b8e2-c46328176686_1.0.0.0_neutral__ys9bp1mgbe218</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ba8b7d8d-0786-4fda-b8e2-c46328176686_ys9bp1mgbe218!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ba8b7d8d-0786-4fda-b8e2-c46328176686</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Colm</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-21T17:23:48.819</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\MSBuildTest.Windows.exe">
+      <PackagePath>MSBuildTest.Windows.exe</PackagePath>
+      <Modified>2015-11-21T17:23:48.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T22:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T22:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T22:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T22:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\MSBuildTest.Windows.xr.xml">
+      <PackagePath>MSBuildTest.Windows.xr.xml</PackagePath>
+      <Modified>2015-11-21T17:23:48.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-11-21T17:23:48.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-11-21T17:23:48.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-21T17:23:48.665</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

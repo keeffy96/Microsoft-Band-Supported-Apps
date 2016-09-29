@@ -1,0 +1,64 @@
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\App.xbf
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\MainPage.xbf
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\MSBuildTest.Windows.xr.xml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\MSBuildTest.Windows.exe
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\MSBuildTest.Windows.pdb
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\resources.pri
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\AppxManifest.xml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\bin\Debug\MSBuildTest.Windows.build.appxrecipe
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\App.g.i.cs
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\App.g.cs
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\MainPage.g.cs
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\App.xaml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\MainPage.xaml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\App.xbf
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\MainPage.xbf
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\MSBuildTest.Windows.exe
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\MSBuildTest.Windows.pdb
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\priconfig.xml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\layout.resfiles
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\resources.resfiles
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\pri.resfiles
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\qualifiers.txt
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\App.xbf
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\MainPage.xbf
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\MSBuildTest.Windows.xr.xml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\MSBuildTest.Windows.exe
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\MSBuildTest.Windows.pdb
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\resources.pri
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\MSBuildTest.Windows.build.appxrecipe
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\App.g.i.cs
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\App.g.cs
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\App.xaml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\MainPage.xaml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\App.xbf
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\MainPage.xbf
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\MSBuildTest.Windows.exe
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\MSBuildTest.Windows.pdb
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\priconfig.xml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\layout.resfiles
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\resources.resfiles
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\pri.resfiles
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\qualifiers.txt
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\ProjectArchitectures.txt

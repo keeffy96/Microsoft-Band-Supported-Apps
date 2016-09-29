@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="App13.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App13"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <ToggleButton x:Name="toggleButton" Content="Sine" HorizontalAlignment="Left" Margin="43,0,0,0" VerticalAlignment="Top" Checked="toggleButton_Checked" Height="120" Width="317"/>
+        <ToggleButton x:Name="toggleButton1" Content="Sawtooth" HorizontalAlignment="Left" Margin="43,140,0,0" VerticalAlignment="Top" Height="108" Width="317" Checked="toggleButton1_Checked"/>
+        <HyperlinkButton Content="Menu" HorizontalAlignment="Left" Margin="43,495,0,0" VerticalAlignment="Top" Width="317" Click="HyperlinkButton_Click"/>
+        <ToggleButton x:Name="toggleButton2" Content="Triangle" HorizontalAlignment="Left" Margin="43,259,0,0" VerticalAlignment="Top" Height="97" Width="317" Checked="toggleButton2_Checked"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="43,591,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" RenderTransformOrigin="-4.412,0.287" Width="317"/>
+        <ToggleButton x:Name="toggleButton3" Content="Square" HorizontalAlignment="Left" Margin="43,364,0,0" VerticalAlignment="Top" Height="98" Width="317" Checked="toggleButton3_Checked"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,96 @@
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MSBuildTest.WindowsPhone.csprojResolveAssemblyReference.cache
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\App.g.cs
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\App.xaml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\App.xbf
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\App.xbf
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MSBuildTest.WindowsPhone.xr.xml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MSBuildTest.WindowsPhone.exe
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MSBuildTest.WindowsPhone.pdb
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\resources.pri
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MSBuildTest.WindowsPhone.build.appxrecipe
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\Microsoft.Band.dll
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\Microsoft.Band.Phone.dll
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\Microsoft.Band.Store.dll
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\Microsoft.Band.Phone.pri
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\Microsoft.Band.Store.pri
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MSBuildTest.WindowsPhone.exe
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MSBuildTest.WindowsPhone.pdb
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band\en\Microsoft.Band.BandResources.resw
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MSBuildTest.WindowsPhone.csproj.GenerateResource.Cache
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band\layout.resfiles
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band\layout.resfiles.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band\Resources.resfiles
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band\Resources.resfiles.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band\pri.resfiles
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band\pri.resfiles.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band\priconfig.xml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band\priconfig.xml.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band.pri
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band\qualifiers.txt
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band.Phone.pri.xml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band.Store.pri.xml
+c:\users\colm\documents\visual studio 2015\Projects\MSBuildTest\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MSBuildTest.WindowsPhone.xr.xml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MSBuildTest.WindowsPhone.exe
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MSBuildTest.WindowsPhone.pdb
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\MSBuildTest.WindowsPhone.build.appxrecipe
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\Microsoft.Band.dll
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\Microsoft.Band.Phone.dll
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\Microsoft.Band.Store.dll
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\Microsoft.Band.Phone.pri
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\bin\Debug\Microsoft.Band.Store.pri
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MSBuildTest.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MSBuildTest.WindowsPhone.exe
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MSBuildTest.WindowsPhone.pdb
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band\en\Microsoft.Band.BandResources.resw
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MSBuildTest.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band.pri
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band\qualifiers.txt
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band.Phone.pri.xml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\Microsoft.Band.Store.pri.xml
+C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.WindowsPhone\obj\Debug\ProjectArchitectures.txt

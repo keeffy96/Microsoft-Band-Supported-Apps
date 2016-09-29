@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>COLMWIN8</Machine>
+    <WindowsUser>Colm</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ba8b7d8d-0786-4fda-b8e2-c46328176686</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\MSBuildTest.Windows.exe">
+      <PackagePath>MSBuildTest.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\Assets\SampleTileIconLarge.png">
+      <PackagePath>Assets\SampleTileIconLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\Assets\SampleTileIconSmall.png">
+      <PackagePath>Assets\SampleTileIconSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\MSBuildTest.Windows.xr.xml">
+      <PackagePath>MSBuildTest.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Colm\Documents\Visual Studio 2015\Projects\Heart Rate Sensor\MSBuildTest\MSBuildTest.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
